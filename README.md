@@ -1,6 +1,6 @@
 # Gender-and-Emotion-Recognition
 A custom CNN architecture and transfer learning based pre-trained model for recognizing Gender and Emotions from a still image.
-There are two available datasets for both Gender and Emotions.The Emotion dataset is in HDF5 Fromat and Gender comprises of images.
+There are two available datasets for both Gender and Emotions.The Emotion dataset is in HDF5 Format and Gender comprises of images.
 Achieved an Accuracy of 93%
 
 ## Prerequisites
