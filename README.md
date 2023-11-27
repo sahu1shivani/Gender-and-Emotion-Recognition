@@ -14,6 +14,9 @@ Make sure you have the following:
 - A good GPU
 
 ### How to run the project:
-Check if all the paths mentioned in the code are modified according to the new path
-Check if all the modules are properly imported.
-Now just run the "GenderImageRecognition.py" file
+
+- Check if all the paths mentioned in the code are modified according to the new path.
+- Check if all the modules are properly imported.
+- Now run the "GenderImageRecognition.py" file
+
+
