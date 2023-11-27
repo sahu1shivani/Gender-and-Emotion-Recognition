@@ -3,4 +3,11 @@ The Objective of this project was to detect gender(Male/Female) and recognize em
 The Emotion Dataset after the training allows it to learn from the images and labels which enables to make predictions on new,unseen images.
 The pretrained model from Emotion Dataset helps in segregating the data in 4 four classes-HappyMale,HappyFemale,SadMale,SadFemale.
 
+##Getting Started :
+python 3.7+
+tensorflow
+numpy
+opencv3.x
+MTCNN for face detection
+
 
