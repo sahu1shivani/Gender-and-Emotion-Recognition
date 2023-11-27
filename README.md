@@ -1,16 +1,16 @@
 # Gender-and-Emotion-Recognition
-The Objective of this project was to detect gender(Male/Female) and recognize emotions(Happy/Sad).There were two available datasets for both Gender and Emotions.The Emotion dataset was in HDF5 Fromat and Gender comprised of images.
-The Emotion Dataset after the training allows it to learn from the images and labels which enables to make predictions on new,unseen images.
-The pretrained model from Emotion Dataset helps in segregating the data in 4 four classes-HappyMale,HappyFemale,SadMale,SadFemale.
+A custom CNN architecture and transfer learning based pre-trained model for recognizing Gender and Emotions from a still image.
+There are two available datasets for both Gender and Emotions.The Emotion dataset is in HDF5 Fromat and Gender comprises of images.
+Achieved an Accuracy of 93%
 
-##Getting Started :
-Install R
+### Prerequisites
 
+Make sure you have the following:
 
-  python 3.7+
-tensorflow
-numpy
-opencv3.x
-MTCNN for face detection
+- Python 3.7+
+- TensorFlow
+- Keras
+- NumPy
+- A good GPU
 
 
